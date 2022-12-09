@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PlacementTutorial.unity
+    guid: 88331beb7d96a4bc98533a1c00d58260
+  - enabled: 0
+    path: Assets/ARDKExamples/SceneSelector/SceneSelector.unity
+    guid: 84237189c8d04465ba3b54cde60f5d2e
+  - enabled: 0
+    path: Assets/ARDKExamples/WayspotAnchors/WayspotAnchors.unity
+    guid: 3477628c2e7624b9386c43bf7c008d15
+  - enabled: 0
+    path: Assets/ARDKExamples/AnchorsWithoutPlanes/AnchorsWithoutPlanes.unity
+    guid: 335ff4cdf176a4f84b353ffcebaa8b07
+  - enabled: 0
+    path: Assets/ARDKExamples/ContextAwareness/Meshing/OcclusionStabilisation.unity
+    guid: 07e700fe45a2c44ba873e13354ac31cf
+  - enabled: 0
+    path: Assets/ARDKExamples/ContextAwareness/Meshing/Meshing.unity
+    guid: 5f23a8470b465422cb097c10aa71e80d
+  - enabled: 0
+    path: Assets/ARDKExamples/ContextAwareness/Gameboard/Gameboard.unity
+    guid: 1b7213c3fe5564515858f79a5dadc2f5
+  - enabled: 1
+    path: Assets/Scenes/ThoughtDiffusion.unity
+    guid: 1e20bb1392f2b4263a44d695ceaf2670
+  - enabled: 0
+    path: Assets/ARDKExamples/VirtualStudio/Remote/ARDK Remote Feed App.unity
+    guid: 3189817bdea5b482e84d5fdffad8fc5d
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 777a3b78b59df4e08abb3c6edcad2e09, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b42f70b46e4374c04862f9e1ee21c171, type: 2}
